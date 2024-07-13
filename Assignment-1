@@ -1,0 +1,31 @@
+Here are the answers to your questions:
+
+1. **The equations of the lines \( x=2 \) & \( y=4 \) meet at the point**: **(2, 4)**.
+
+2. **Equations \( 2X + 3Y = 9 \) & \( 7X + 9Y = -6 \) have how many solutions?**: These two equations represent parallel lines since they have the same ratio of coefficients and do not intersect, so they have **no solutions**.
+
+3. **Equation \( 7x + 9y = -5 \) has how many keys?**: This is a linear equation, which represents a straight line, so it has **infinitely many solutions** (or "keys").
+
+4. **Equation \( ax^2 + bx + c = 0 \) will be**: **a trivial equation** for \( a = b = c = 0 \) (it represents \( 0 = 0 \), which is true for all \( x \)).
+
+5. **Income of A & B is in the ratio 2:3. If B’s income is Rs 3000, find the ratio of their expenditures if their savings are Rs 500 & Rs 700**:
+
+   - Let A's income be \( 2x \) and B's income be \( 3x \). Since B's income is Rs 3000, we have:
+     \[
+     3x = 3000 \implies x = 1000 \implies A's \, income = 2 \times 1000 = Rs \, 2000.
+     \]
+   - A's expenditure = Income - Savings = \( 2000 - 500 = 1500 \).
+   - B's expenditure = Income - Savings = \( 3000 - 700 = 2300 \).
+
+   - Therefore, the ratio of their expenditures is:
+     \[
+     \text{Ratio} = \frac{1500}{2300} = \frac{15}{23}.
+     \]
+
+So, the answers are:
+
+1. (2, 4)
+2. No solutions
+3. Infinitely many solutions
+4. A trivial equation
+5. Ratio of expenditures = **15:23**.
